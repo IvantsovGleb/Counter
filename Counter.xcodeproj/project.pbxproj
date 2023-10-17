@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		D615C8F22ADC878B003E2EEC /* Button.swift in Sources */ = {isa = PBXBuildFile; fileRef = D615C8F12ADC878B003E2EEC /* Button.swift */; };
 		D6525CBD2AD2D1C0007A0C73 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = D6525CBC2AD2D1C0007A0C73 /* AppDelegate.swift */; };
 		D6525CBF2AD2D1C0007A0C73 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = D6525CBE2AD2D1C0007A0C73 /* SceneDelegate.swift */; };
 		D6525CC12AD2D1C0007A0C73 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D6525CC02AD2D1C0007A0C73 /* ViewController.swift */; };
@@ -15,6 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		D615C8F12ADC878B003E2EEC /* Button.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Button.swift; sourceTree = "<group>"; };
 		D6525CB92AD2D1C0007A0C73 /* Counter.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Counter.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		D6525CBC2AD2D1C0007A0C73 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		D6525CBE2AD2D1C0007A0C73 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -57,6 +59,7 @@
 				D6525CBC2AD2D1C0007A0C73 /* AppDelegate.swift */,
 				D6525CBE2AD2D1C0007A0C73 /* SceneDelegate.swift */,
 				D6525CC02AD2D1C0007A0C73 /* ViewController.swift */,
+				D615C8F12ADC878B003E2EEC /* Button.swift */,
 				D6525CC52AD2D1C2007A0C73 /* Assets.xcassets */,
 				D6525CC72AD2D1C2007A0C73 /* LaunchScreen.storyboard */,
 				D6525CCA2AD2D1C2007A0C73 /* Info.plist */,
@@ -134,6 +137,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D615C8F22ADC878B003E2EEC /* Button.swift in Sources */,
 				D6525CC12AD2D1C0007A0C73 /* ViewController.swift in Sources */,
 				D6525CBD2AD2D1C0007A0C73 /* AppDelegate.swift in Sources */,
 				D6525CBF2AD2D1C0007A0C73 /* SceneDelegate.swift in Sources */,
